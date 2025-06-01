@@ -1,12 +1,35 @@
-# React + Vite
+# Live link-https://signature-canvas-1wxa.vercel.app/
+# ✍️ Signature App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and minimal **React-based Signature Drawing App** that lets users draw on a canvas using different pen colors, background themes, and line widths. Great for capturing handwritten notes, doodles, and signatures. Built with ❤️ using **React** and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
 
-## Expanding the ESLint configuration
+- ✏️ Draw freely using the mouse
+- 🎨 Change pen (stroke) color
+- 🌈 Switch canvas background color
+- 📏 Select line width (2px to 15px)
+- 🧹 Clear canvas button
+- ⚡ Fast performance with HTML5 Canvas
+- 💻 Fully responsive design
+- 🔄 Easily extendable to save/download the signature
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** React, Tailwind CSS
+- **Canvas:** HTML5 Canvas API
+- **Bundler:** Vite / Create React App (as per setup)
+
+---
+
+## 📦 Installation
+
+### Clone the repository
+
+```bash
+git clone https://github.com/your-username/signature-app.git
+cd signature-app
